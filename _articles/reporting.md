@@ -35,7 +35,7 @@ title: "Reporting"
       </div>
       <div class="form-check">
         <label class="form-check-label">
-          <input type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios2" onclick="ReportingForm.handleReportingIssueChoice(this);" value="No"> No
+          <input type="url" type="radio" class="form-check-input" name="optionsRadios" id="optionsRadios2" onclick="ReportingForm.handleReportingIssueChoice(this);" value="No"> No
         </label>
       </div>
     </fieldset>
